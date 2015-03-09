@@ -11,6 +11,7 @@ namespace vjezba1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Neka nova linija koda!");
+            Console.WriteLine("KA ME HA ME HAAAAA");
         }
     }
 }
