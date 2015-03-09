@@ -10,6 +10,8 @@ namespace vjezba1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Neka nova linija koda!");
+            Console.WriteLine("KA ME HA ME HAAAAA");
         }
     }
 }
